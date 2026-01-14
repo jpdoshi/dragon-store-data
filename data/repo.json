@@ -1111,17 +1111,6 @@
     "tags": "calendar, private, secure, encryption"
   },
   {
-    "id": "287359",
-    "title": "RVX Manager",
-    "owner": "inotia00",
-    "category": "tools",
-    "about": "RVX Manager is a forked version of ReVanced Manager to run inotia00 patches. It helps you build Extended Apps.",
-    "icon": "rvx-manager.png",
-    "repoUrl": "https://github.com/inotia00/revanced-manager",
-    "website": "https://revanced.app",
-    "tags": "rvx, manager, vanced, revanced, fork, patches"
-  },
-  {
     "id": "619645",
     "title": "Orbot",
     "owner": "guardianproject",
