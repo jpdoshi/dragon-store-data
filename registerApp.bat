@@ -1,0 +1,2 @@
+
+node ./scripts/registerApp.js
