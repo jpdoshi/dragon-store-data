@@ -1274,5 +1274,16 @@
     "repoUrl": "https://github.com/aniyomiorg/aniyomi",
     "website": "https://aniyomi.org",
     "tags": "manga, anime, tachiyomi, mihon, patches"
+  },
+  {
+    "id": "691160",
+    "title": "URLCheck",
+    "owner": "TrianguloY",
+    "category": "tools",
+    "about": "URLCheck acts as an amazingly customizable and powerful intermediary when opening url links, allowing, among other things: to remove trackers, affiliate links, unnecessary elements, check Hosts, facilitating link holding and sharing, protecting against certain phishing techniques and many more...",
+    "icon": "urlcheck.png",
+    "repoUrl": "https://github.com/TrianguloY/URLCheck",
+    "website": "",
+    "tags": "url, checker, malware, phishing, secure"
   }
 ]
