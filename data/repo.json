@@ -1263,5 +1263,16 @@
     "repoUrl": "https://github.com/gsantner/markor",
     "website": "",
     "tags": "text editor, markdown, list, notes, todos"
+  },
+  {
+    "id": "210950",
+    "title": "Aniyomi",
+    "owner": "aniyomiorg",
+    "category": "media",
+    "about": "A Full-featured player and reader, based on Mihon. Discover and watch anime, cartoons, series, and more – easier than ever on your Android device.",
+    "icon": "aniyomi.png",
+    "repoUrl": "https://github.com/aniyomiorg/aniyomi",
+    "website": "https://aniyomi.org",
+    "tags": "manga, anime, tachiyomi, mihon, patches"
   }
 ]
